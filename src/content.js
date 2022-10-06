@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import "./content.css";
 import InjectContent from './components/InjectContent';
-import App from './App';
+// import App from './components/App';
 
 try {
 
